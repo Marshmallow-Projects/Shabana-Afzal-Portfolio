@@ -41,4 +41,5 @@ For inquiries or collaboration, reach out via:
 Thank you for visiting my portfolio!
 
 ---
-This Portfolio website is powered by Marshmallow.Projects![Designed - Portfolio Footer](https://github.com/user-attachments/assets/99d3acbe-be97-4877-8cc4-d3906f4ea81a)
+This Portfolio website is powered by Marshmallow.Projects
+![Designed - Portfolio Footer](https://github.com/user-attachments/assets/99d3acbe-be97-4877-8cc4-d3906f4ea81a)
