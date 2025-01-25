@@ -1,5 +1,5 @@
 # Shabana Afzal - UI & Graphic Designer Portfolio
-Hi, I'm Shabana Afzal, a passionate UI & Graphic Designer focused on creating meaningful and user-centered design experiences. With a strong background in visual design and user interface creation, I enjoy helping brands build visually engaging products that people love to use. I'm curently working in [Marshmallow.Projects](https://www.facebook.com/Marshmallow.Projects) as of 25 January 2025. Additionally you can find my resume below.
+Hi, I'm Shabana Afzal, a passionate UI & Graphic Designer focused on creating meaningful and user-centered design experiences. With a strong background in visual design and user interface creation, I enjoy helping brands build visually engaging products that people love to use. I'm curently working in [Marshmallow.Projects](https://www.facebook.com/Marshmallow.Projects) as of 25 January 2025. Additionally you can find my [resume](https://github.com/Marshmallow-Projects/Portfolio?tab=readme-ov-file#resume) below.
 
 
 ## Skills & Expertise
@@ -31,7 +31,7 @@ For inquiries or collaboration, reach out via:
 ## Tools and Technologies
 - Figma, Adobe Illustrator, Adobe Photoshop
 
-## Resume
+## My Resume
 
 
 ## Marshmallow.Projects
