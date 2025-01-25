@@ -42,5 +42,6 @@ Thank you for visiting my portfolio!
 
 ---
 This Portfolio website is powered by Marshmallow.Projects
-![Portfolio Footer](https://github.com/user-attachments/assets/b1ced1b1-cdec-4554-8e14-a07ce1495a71)
+![Designed - Portfolio Footer](https://github.com/user-attachments/assets/9ba73b25-951c-4697-9d92-fab8c84c60e2)
+
 
